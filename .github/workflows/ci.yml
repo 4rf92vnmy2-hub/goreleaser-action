@@ -1,4 +1,5 @@
-name: ci
+name: lil'monster
+
 
 concurrency:
   group: ${{ github.workflow }}-${{ github.ref }}
